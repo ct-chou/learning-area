@@ -9,6 +9,19 @@ table {
   font-size: 0.8rem;
 }
 
+.nameCol {
+  border-left: 2px solid rgb(0,0,0);
+  border-right: 2px solid rgb(0,0,0);
+}
+
+#name {
+  border-top: 2px solid rgb(0,0,0);
+}
+
+#pluto {
+  border-bottom: 2px solid rgb(0,0,0);
+}
+
 td, th {
   border: 1px solid rgb(190,190,190);
   padding: 10px 20px;
