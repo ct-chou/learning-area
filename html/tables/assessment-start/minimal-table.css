@@ -9,7 +9,7 @@ table {
   font-size: 0.8rem;
 }
 
-.nameCol {
+/* .nameCol {
   border-left: 2px solid rgb(0,0,0);
   border-right: 2px solid rgb(0,0,0);
 }
@@ -20,7 +20,7 @@ table {
 
 #pluto {
   border-bottom: 2px solid rgb(0,0,0);
-}
+} */
 
 td, th {
   border: 1px solid rgb(190,190,190);
